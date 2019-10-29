@@ -1,4 +1,4 @@
-package stackQue.top;
+package stack.top;
 
 public class TopMain {
     public static void main(String[] args){

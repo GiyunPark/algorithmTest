@@ -1,4 +1,4 @@
-package stackQue.top;
+package stack.top;
 
 import java.util.Stack;
 
